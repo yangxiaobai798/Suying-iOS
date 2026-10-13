@@ -437,7 +437,6 @@
 				DEVELOPMENT_TEAM = 83KL373Z2M;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ShareExtension/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = 速映;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -471,7 +470,6 @@
 				DEVELOPMENT_TEAM = 83KL373Z2M;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ShareExtension/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = 速映;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -645,7 +643,6 @@
 				);
 				INFOPLIST_FILE = Palladium/Info.plist;
 				INFOPLIST_KEY_APP_FINAL = "$(APP_FINAL)";
-				INFOPLIST_KEY_CFBundleDisplayName = 速映;
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Palladium does not use the camera directly. This message is included because bundled system APIs may reference camera access.";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Save downloaded videos to your photo library.";
@@ -702,7 +699,6 @@
 				);
 				INFOPLIST_FILE = Palladium/Info.plist;
 				INFOPLIST_KEY_APP_FINAL = "$(APP_FINAL)";
-				INFOPLIST_KEY_CFBundleDisplayName = 速映;
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Palladium does not use the camera directly. This message is included because bundled system APIs may reference camera access.";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Save downloaded videos to your photo library.";
