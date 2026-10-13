@@ -2,9 +2,11 @@
 
 <img src="Palladium/Resources/Assets.xcassets/palladium_dark.imageset/palladium_dark.png" alt="Palladium Logo" width="200">
 
-# Palladium
+# 速映 iOS
 
 On-device iOS media downloader powered by `yt-dlp`, `gallery-dl`, `ffmpeg`, and `PythonKit`.
+
+> 个人自用版本：基于开源项目 [Palladium](https://github.com/tfourj/Palladium)（GPL-3.0）修改，应用名称/图标/部分文案本地化为「速映」（Suying）。仅供个人使用。
 
 </div>
 

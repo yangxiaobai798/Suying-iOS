@@ -1,4 +1,4 @@
-name: Build Palladium .ipa (Unsigned)
+name: Build Suying .ipa (Unsigned)
 
 on:
   pull_request:
@@ -211,5 +211,5 @@ jobs:
     - name: Upload IPA artifact
       uses: actions/upload-artifact@v4
       with:
-        name: Palladium
+        name: Suying
         path: build/*.ipa
